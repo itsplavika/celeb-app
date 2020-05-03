@@ -39,6 +39,7 @@
     .celeb-card-wrapper {
       flex-direction: row;
       flex-wrap: wrap;
+      justify-content: center;
     }
 
     .celeb-card-item  {

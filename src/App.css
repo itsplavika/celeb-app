@@ -12,6 +12,12 @@ main {
 }
 
 @media only screen and (min-width: 600px) {
+  .app-title {
+    flex-direction: row;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
   main {
     padding: 0;
   }
