@@ -1,0 +1,41 @@
+.filter-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 15px 0;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.filter-section button {
+    cursor: pointer;
+}
+
+.list-filter {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.letters {
+    display: flex;
+    background-color: transparent;
+    border: 0;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.all-filter {
+    color: #af9433;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: transparent;
+    border: 0;
+    font-size: 16px;
+}
+
+@media only screen and (min-width: 600px) {
+    .all-filter {
+        margin: 0 80px 0 0;
+    }
+  }
+  

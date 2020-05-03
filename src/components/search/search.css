@@ -1,0 +1,11 @@
+.search {
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px #e1e1e1 solid;
+    height: 40px;
+    font-size: 18px;
+    width: 246px;
+    padding: 0 0 0 5px;
+    color: #a1a1a1;
+    font-weight: 500;
+}
